@@ -20,5 +20,5 @@ end
 puts bubble_sort_while([1, 10, 0, -5, 5, 1])
 
 def bubble_sort(array_to_sort)
-
+	loop 
 end
